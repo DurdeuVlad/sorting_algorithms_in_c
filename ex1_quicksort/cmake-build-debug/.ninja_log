@@ -1,0 +1,27 @@
+# ninja log v5
+2	85	7069950648602981	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+85	175	7069950649459872	ex1_quicksort.exe	ed5edc490057facc
+2	79	7069956425302518	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+79	168	7069956426134125	ex1_quicksort.exe	ed5edc490057facc
+2	77	7069956519085835	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+77	166	7069956519932757	ex1_quicksort.exe	ed5edc490057facc
+1	80	7069956616262407	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+81	171	7069956617096056	ex1_quicksort.exe	ed5edc490057facc
+2	83	7069956919414179	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+84	194	7069956920486663	ex1_quicksort.exe	ed5edc490057facc
+2	79	7069957269331456	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+80	168	7069957270170664	ex1_quicksort.exe	ed5edc490057facc
+2	80	7069957628737921	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+80	169	7069957629560607	ex1_quicksort.exe	ed5edc490057facc
+2	89	7069957975348932	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+90	191	7069957976332435	ex1_quicksort.exe	ed5edc490057facc
+2	77	7069958061024580	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+77	170	7069958061899476	ex1_quicksort.exe	ed5edc490057facc
+2	85	7069958553179889	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+86	180	7069958554088702	ex1_quicksort.exe	ed5edc490057facc
+2	76	7069958639131494	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+77	165	7069958639969258	ex1_quicksort.exe	ed5edc490057facc
+1	76	7069958729172766	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+76	161	7069958729987457	ex1_quicksort.exe	ed5edc490057facc
+2	82	7069959036005368	CMakeFiles/ex1_quicksort.dir/main.c.obj	1de0cb494b6669ed
+83	168	7069959036819148	ex1_quicksort.exe	ed5edc490057facc

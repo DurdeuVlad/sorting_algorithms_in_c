@@ -1,0 +1,3 @@
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/sorting/sorting_algorithms/ex1_quicksort/cmake-build-debug/CMakeFiles/ex1_quicksort.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/sorting/sorting_algorithms/ex1_quicksort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/sorting/sorting_algorithms/ex1_quicksort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
